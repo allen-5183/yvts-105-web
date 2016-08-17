@@ -1,3 +1,6 @@
-# My Awesome Book
+# __前言__
+  此教材乃是為幼獅職業訓練場105年JAVA系統設計班所撰寫，目的乃希望學員可以透過學習此課程後, 能迅速開發所需之前端界面。
+  
+  本教材線上版本
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+  (http://yvts-105-web.te-jen.idv.tw).

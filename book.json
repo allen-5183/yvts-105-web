@@ -1,0 +1,41 @@
+{                                                                                               
+  "title": "HomePage Programming 電子書",                                                       
+  "description": "網頁程式語言！",                                                              
+  "language": "zh-tw",                                                                          
+  "direction": "ltr",                                                                           
+  "plugins": [                                                                                  
+               "disqus",                                                                        
+               "quiz",                                                                          
+               "quizzes",                                                                       
+               "exercises",                                                                     
+               "expandable-chapters",                                                           
+               "collapsible-menu"                                                               
+             ],                                                                                 
+                                                                                                
+  "pluginsConfig": {                                                                            
+                     "disqus": {                                                                
+                                 "shortName": "homepage-pg",                                    
+                                 "useIdentifier": false                                         
+                               }                                                                
+                   },                                                                           
+                                                                                                
+  "expandable-chapters":{},                                                                     
+                                                                                                
+     "quiz": {                                                                                
+                  "labels": {                                                                   
+                              "check"             : "確認",                                     
+                              "showExplanation"   : "顯示解釋",                                 
+                              "showCorrect"       : "顯示正確答案",                             
+                              "explanationHeader" : "Explanation"                               
+                            },                                                                  
+                  "text":   {                                                                   
+                              "noChosen"    : "Choose at least one answer",                     
+                              "incomplete"  : "Some correct answers are missing"                
+                            },                                                                  
+                 "buttons": {                                                                   
+                              "showCorrect"       : true,                                       
+                              "showExplanation"   : true                                        
+                            }                                                                   
+               }                                                                                
+                                                                                                
+}                                                                                               
