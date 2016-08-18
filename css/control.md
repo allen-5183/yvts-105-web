@@ -27,7 +27,8 @@
    HTML:
    ```
     <link rel="stylesheet" type="text/css" href="style.css" media="screen">
-
+   ```
+   ```
    rel="stylesheet"   表示這是一個 CSS 檔案的參照
    href="style.css"   CSS 檔案所在位置(目錄與檔名)
    type="text/css"    指定為純文字檔
@@ -36,8 +37,7 @@
 	      print    印出的結果
 	      handheld 手持式週邊(行動設備)
 	      default  適用各種狀況
-   ```
-   
+   ```   
    
 4. 導入式: 作用相同於外部式.  
     ```
