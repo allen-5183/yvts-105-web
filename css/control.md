@@ -30,6 +30,14 @@
    ```
    
    ```
+ 4. 導入式: 作用相同於外部式.  
+    ```
+    <style type="text/css">
+      <!--
+        @import url(style.css)
+	  -->
+	</style>
+    ``` 
    rel="stylesheet"   表示這是一個 CSS 檔案的參照
    href="style.css"   CSS 檔案所在位置(目錄與檔名)
    type="text/css"    指定為純文字檔
@@ -39,11 +47,4 @@
 	      handheld 手持式週邊(行動設備)
 	      default  適用各種狀況
    ```  
- 4. 導入式: 作用相同於外部式.  
-    ```
-    <style type="text/css">
-      <!--
-        @import url(style.css)
-	  -->
-	</style>
-    ``` 
+
