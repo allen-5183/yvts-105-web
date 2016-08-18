@@ -18,12 +18,16 @@
    ```
 3. 外部樣式: <link> 標籤, 將 CSS 寫在另一個檔案. 
    使用時機: 所有頁面都採用相同CSS 時.
-   style.css
+   CSS: style.css
    ```
    h2{
           color:red;
    }
    ```
-
+   HTML:
+   ```
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen">
+   ```
+   
 
      
