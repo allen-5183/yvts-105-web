@@ -40,4 +40,11 @@
 	      handheld 手持式週邊(行動設備)
 	      default  適用各種狀況
    ```
-     
+ 4. 導入式: 作用相同於外部式.  
+    ```
+    <style type="text/css">
+      <!--
+        @import url(style.css)
+	  -->
+	</style>
+    ``` 
