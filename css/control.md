@@ -9,11 +9,11 @@
    
 2. 內部: &lt;style&gt; 標籤, 寫在網頁內容裏. 
    ```
-          <style type="text/css">
-          h2{                                # selector {
-             color: red;                     #              屬性: 值
-          }                                  # }
-        </style>
+   <style type="text/css">
+      h2{                                
+          color: red;                    
+        }                                 
+   </style>
 
    ```   
    
