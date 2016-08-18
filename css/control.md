@@ -27,8 +27,7 @@
    HTML:
    ```
     <link rel="stylesheet" type="text/css" href="style.css" media="screen">
-   ```
-   
+   ```   
  4. 導入式: 作用相同於外部式.  
     ```
     <style type="text/css">
