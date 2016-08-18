@@ -1,8 +1,7 @@
 # 使用 CSS 控制頁面
 
 1. 嵌入式: 直接寫在標籤 &lt;tag&gt; 的屬性="值" 上.  
-   ```
-   
+   ```   
    <h2 style="color:red;"> Hello </h2>
    
    ```
