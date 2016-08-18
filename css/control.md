@@ -32,12 +32,12 @@
    
    ```
    rel="stylesheet"   表示這是一個 CSS 檔案的參照
-       href="style.css"   CSS 檔案所在位置(目錄與檔名)
-       type="text/css"    指定為純文字檔
-       media:  指定 CSS 是針對哪一媒體來撰寫
-               screen   螢幕上的網頁
-	       print    印出的結果
-	       handheld 手持式週邊(行動設備)
-	       default  適用各種狀況
+   href="style.css"   CSS 檔案所在位置(目錄與檔名)
+   type="text/css"    指定為純文字檔
+   media: 指定 CSS 是針對哪一媒體來撰寫
+          screen   螢幕上的網頁
+	      print    印出的結果
+	      handheld 手持式週邊(行動設備)
+	      default  適用各種狀況
    ```
      
